@@ -8,7 +8,7 @@ This selenium based test Automation framework is designed to automate tests of t
 
 Package Name - webpage.testcases
 
-     HomeTests - This class holds all the tests written for the web page. It has tests denoted by @Test annotations and accepts required test data using @Parameters annotations for each test respectively. Each test method makes use of the helper functions defined in HomePage class to construct the test automation flow.
+     HomeTests - This class holds all the tests written for the web page. It has tests denoted by @Test annotations and accepts required test data using @Parameters annotations for each test respectively. Each test method makes use of the helper functions defined in HomePage class to construct the test automation flow. Assertions are used in each test method for performing verifications. 
 
 Package Name - webpage.pageObjects
 
