@@ -46,10 +46,12 @@ All the required maven dependencies and plugins of the framework are defined her
 > mvn clean test
 
 ### Test Automation Report:
-After test execution is finished, test report is available in the below path of the project. A sample report is already available in the below mentioned path for your reference.
+After test execution is completed, test report is available in the below path of the project. 
 > src/target/reports/sparkReport.html
 
 #### Note:
-In case of any failures in the test execution, the captured screenshots are located in below path
+1. A sample report is already available in the path
+>"src/test/resources/sampleReport/sparkReport.html".
+2. In case of any failures in the test execution, the captured screenshots are located in below path
 
 > src/target/reports/screenshots
